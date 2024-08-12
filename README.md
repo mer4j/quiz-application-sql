@@ -1,4 +1,3 @@
-# Quiz-Application
 `Prescribed Criteria`:
 - The application provides a user interface for students to answer multiple choice questions  presented to them.
 - After answering questions, the application gives feedback to students based on their performance, indicating whether their answers were correct or incorrect.
