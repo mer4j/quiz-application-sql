@@ -1,3 +1,5 @@
+# Overview:
+- This application was created as a project and it was made in pythons `Kivy` GUI framework. It uses the `sqlite3` module to interact with the `quiz.db` file which is the database. 
 # Prescribed Criteria:
 - The application provides a user interface for students to answer multiple choice questions  presented to them.
 - After answering questions, the application gives feedback to students based on their performance, indicating whether their answers were correct or incorrect.
